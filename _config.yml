@@ -44,6 +44,11 @@ defaults:
       share: true
       related: true
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "mujou"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
