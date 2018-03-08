@@ -11,11 +11,9 @@ Kyōjaku jūgō arubekarazu, yueni kono kokoro o hanare, sora no ichiji o satori
 Nazu waza o onore ga chikara to hito wa iu. Kami no michibiku mi to shirazu shite.
 
 ### 敵来るとも相手すな、手向かえは意にまかせ、最後には捨身とぞ知れ。
-
 Teki kurutomo aite suna, temukae wa i ni makase, saigo ni wa shashin to zo shire.
 
 ### 松も色より、貝石山よ、思いこめたる岩に契りは、唐戸淵。ー　滕原千方
-
 Matsu mo iro yori, kaisekisan yo, omoikometaru iwa ni chigiri wa, Karato fuchi.
 
 ### 抜かず勝で、抜けば切るなよ、ただ忍べ、命おとるは大事とぞ知れ。　ー　沢庵禅師
@@ -25,7 +23,6 @@ Nukazu shō de, nukeba kiru na yo, tada shinobe, inochi otoru wa daiji to zo shi
 Kokoro koso, kokoro mayowasu kokoro nari, kokoro ni kokoro, kokoro yurusu na.
 
 ### 月影の照らさね里わなけれども、ながむる人の心にざ住む。
-
 Tsukikage no terasane sato wa na keredomo,naga muru hito no kokoro ni za sumu.
 
 ### 大水の先に流るる栃殻も、身を捨ててこそ浮ぶ瀬もある。
@@ -35,9 +32,7 @@ Tsukikage no terasane sato wa na keredomo,naga muru hito no kokoro ni za sumu.
 Mi o sonae, yū o arawasu bu no naka ni, shin no gokui wa kokoronarikeru.
 
 ### 武の秘とは、敵の力を利用して、柳の風の心ともかな。
-
 Take no hi to wa, teki no chikara o riyō shite, yanagi no kaze no kokoro tomo ka na.
 
 ### 棒先で虚空をついて、我が手先、手ごたえあるば、極意なりける。
-
 Bōsaki de kokū o tsuite, waga tesaki, tegotae aru ba, gokuinarikeru.
