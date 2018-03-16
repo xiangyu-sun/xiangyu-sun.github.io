@@ -4,19 +4,19 @@ title: "一瞬の光"
 date: "2018-03-07 21:44:16 +0400"
 ---
 
-### 強弱柔剛あるべからず、故に此の心を離れ、空の一字を悟り、体又無しとして、之に配す。 ー　戸田真龍軒
+### 強弱柔剛あるべからず、故に此の心を離れ、空の一字を悟り、体又無しとして、之に配す。 ー 戸田真龍軒
 Kyōjaku jūgō arubekarazu, yueni kono kokoro o hanare, sora no ichiji o satori,-tai mata-nashi to shite, kore ni haisu.
 
-### なず技を己が力と人は言う。神の導く身と知らずして。ー　高松寿嗣
+### なず技を己が力と人は言う。神の導く身と知らずして。ー 高松寿嗣
 Nazu waza o onore ga chikara to hito wa iu. Kami no michibiku mi to shirazu shite.
 
 ### 敵来るとも相手すな、手向かえは意にまかせ、最後には捨身とぞ知れ。
 Teki kurutomo aite suna, temukae wa i ni makase, saigo ni wa shashin to zo shire.
 
-### 松も色より、貝石山よ、思いこめたる岩に契りは、唐戸淵。ー　滕原千方
+### 松も色より、貝石山よ、思いこめたる岩に契りは、唐戸淵。ー 滕原千方
 Matsu mo iro yori, kaisekisan yo, omoikometaru iwa ni chigiri wa, Karato fuchi.
 
-### 抜かず勝で、抜けば切るなよ、ただ忍べ、命おとるは大事とぞ知れ。　ー　沢庵禅師
+### 抜かず勝で、抜けば切るなよ、ただ忍べ、命おとるは大事とぞ知れ。 ー 沢庵禅師
 Nukazu shō de, nukeba kiru na yo, tada shinobe, inochi otoru wa daiji to zo shire.
 
 ### 心こそ、心迷わす心なり、心に心、心許すな。
@@ -43,7 +43,7 @@ Shingan de satorite toreba hi ken tote, ito gokuraku ni tadashi erunari.
 ### 戦いに勝たんとばかりあせりなば、破れを生じ、負をとるべし。
 Tatakai ni katan to bakari aserinaba, yabure o shōji, fu o torubeshi.
 
-### 千早ふる神の教えはとこしえに、正しき心、身を守るらん。ー　高松寿嗣
+### 千早ふる神の教えはとこしえに、正しき心、身を守るらん。ー 高松寿嗣
 Chihaya furu kami no oshie wa tokoshie ni, tadashiki kokoro, miwomamoru ran.
 
 ### 底知れめ波間にうつる水鏡、心知れられて辱しろ思う
@@ -55,31 +55,31 @@ Sokohi naki, Fuchi ya wa sa reji, Yamakawa no, asaki se ni koso, ada nami wa tat
 ### ゆく末は、我をもしのぶ、人もあらん。むかしを思う心ならいに。
 Yuku sue wa, ga o moshi Nobu, hito mo aran. Mukashi o omou kokorona rai ni.
 
-###　澄む水の心となりて備えなば、鏡の如くうつる相手ぞ。
+### 澄む水の心となりて備えなば、鏡の如くうつる相手ぞ。
 
 Sumu mizu no kokoro to narite sonaenaba,-kyō nogotoku utsuru aite zo.
 
-###　柔術は、敵の力を利用して、柳の風の心、ともがな。
+### 柔術は、敵の力を利用して、柳の風の心、ともがな。
 
 Jūjutsu wa, teki no chikara o riyō shite, yanagi no kaze no kokoro,-tomo ga na.
 
-###　体術の極意は、平和の基礎としれ。学べば、不動心の道にありける。　ー　高松寿嗣
+### 体術の極意は、平和の基礎としれ。学べば、不動心の道にありける。 ー 高松寿嗣
 Taijutsu no gokui wa, heiwa no kiso to shire. Manabeba, fudō kokoro no michi ni arikeru.
 
-###　仁王尊、陰と陽を形捕る、拳の動きぞ、呼吸なりける。
+### 仁王尊、陰と陽を形捕る、拳の動きぞ、呼吸なりける。
 
 Niō mikoto, in to yō o katachi toru,-ken no ugoki zo, kokyūnarikeru.
 
-###　忍体とは、心を養い、技を励みて、末永く辛棒こそ、真の忍者なり。　ー　高松寿嗣
+### 忍体とは、心を養い、技を励みて、末永く辛棒こそ、真の忍者なり。 ー 高松寿嗣
 Nintai to wa, kokoro o yashinai,-waza o hagemite, suenagaku kara bō koso, shin no ninjanari.
 
-###　窪地へと落ちる習いの水なれど、やがては昇るはじめなりける。　ー　高松寿嗣
+### 窪地へと落ちる習いの水なれど、やがては昇るはじめなりける。 ー 高松寿嗣
 Kubochi e to ochiru narai no mizunaredo, yagate wa noboru hajimenarikeru.
 
-###　何もかも君（奇秘）のためぞと日夜がけ、貫き磨け、正しき技を。
+### 何もかも君（奇秘）のためぞと日夜がけ、貫き磨け、正しき技を。
 Nanimokamo-kun (ki hi) no tame zo to nichiya-gake, tsuranuki migake, tadashiki waza o.
 
-###　からまれて何一つの勝手なし、身を捨ててこそ浮ぶ瀬もあれ。
+### からまれて何一つの勝手なし、身を捨ててこそ浮ぶ瀬もあれ。
 Karama rete nanihitotsu no katte nashi, mi o sutete koso ukabu se mo are.
 
 ### 極意とは己が心の奥にあり。只一筋に覚悟あるのみ。（心の奥＝識の世界）
