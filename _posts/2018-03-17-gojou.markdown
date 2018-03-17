@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "五常・悟道"
 date: "2018-03-17 23:31:46 +0400"
 ---
