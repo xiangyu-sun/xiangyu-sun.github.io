@@ -1,10 +1,34 @@
 ---
 layout: single
-title: "五常・悟道"
+title: "五常・五行・五大・五情・悟道"
 date: "2018-03-17 23:31:46 +0400"
 ---
-Due to can not locate the origin of soke's saying. The followings are just a correction of spelling and put back the  correct Kanji.
+#五常
+- 仁 ren
+- 義 zhi
+- 禮 li
+- 智 zhi
+- 信 xin
+#五行
+- 金 jin
+- 木　mu
+- 水　shui
+- 火 huo
+- 土 tu
+#五大・五輪
+- 地　ち
+- 水　すい
+- 火　か  
+- 風　ふ
+- 空　くう
+#五情
+- 喜 xi
+- 怒 nu
+- 哀 ai
+- 乐 le
+- 怨 yuan
 
+#悟道
 - 不滅の布施　ふめつのふせ　fumetsunofuse
 - 真道の持戒　まみちのじかい mamichinojikai
 - 自然の忍辱　しぜんのにんにく shizennoninnniku
