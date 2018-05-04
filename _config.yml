@@ -44,6 +44,16 @@ defaults:
       share: true
       related: true
 
+search_provider: algolia
+
+
+algolia:
+  application_id: 1AGYN7X90M
+  index_name: mujou
+  search_only_api_key: 752b8981ab3554d720f005776f4b041e
+  powered_by: true
+
+
 include: ["_pages"]
 
 comments:
