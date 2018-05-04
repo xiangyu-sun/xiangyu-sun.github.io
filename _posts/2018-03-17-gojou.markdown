@@ -2,6 +2,7 @@
 layout: single
 title: "五常・五行・五大・五情・悟道"
 date: "2018-03-17 23:31:46 +0400"
+categories: bujinkan
 ---
 
 # The fives
@@ -57,7 +58,7 @@ To summarize it become three main idea
 忍辱・精進 -「自利」
 禅定・智慧 -「解脱」
 
-So in there from Hamtsumi sensei gived us the Fives: 
+So in there from Hamtsumi sensei gived us the Fives:
 
 - 不滅の布施　ふめつのふせ　fumetsunofuse
 - 真道の持戒　まみちのじかい mamichinojikai

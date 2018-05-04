@@ -44,10 +44,20 @@ defaults:
       share: true
       related: true
 
+include: ["_pages"]
+
 comments:
   provider: "disqus"
   disqus:
     shortname: "mujou"
+
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
