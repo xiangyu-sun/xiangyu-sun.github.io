@@ -1,0 +1,11 @@
+main:
+  - title: "iOS"
+    url: /ios/
+  - title: "Bujinkan"
+    url: /bujinkan/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "About me"
+    url: /about
