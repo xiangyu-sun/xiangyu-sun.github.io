@@ -2,7 +2,7 @@
 layout: single
 title: "五常・五行・五大・五情・悟道"
 date: "2018-03-17 23:31:46 +0400"
-categories: kungfubudo
+categories: bujinkan kungfubudo
 ---
 
 # The fives
