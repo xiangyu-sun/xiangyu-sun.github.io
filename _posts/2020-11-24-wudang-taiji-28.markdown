@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Wudang Taiji 28"
-date: "2020:11:24 23:31:46 +0400"
+date: "2020-11-24 23:31:46 +0400"
 categories: taiji
 ---
 
