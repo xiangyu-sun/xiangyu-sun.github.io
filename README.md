@@ -1,1 +1,2 @@
-# xiangyu-sun.github.io
+# Link
+[Open](https://xiangyu-sun.github.io)
