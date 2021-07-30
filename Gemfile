@@ -8,8 +8,12 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 
-gem 'jekyll', '~> 4.2', group: :jekyll_plugins
+gem 'jekyll', '~> 4.2'
 
+gem "webrick", "~> 1.7"
+
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -19,7 +23,6 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-paginate"
   gem "jekyll-algolia"
-  gem 'jekyll-timeago', '~> 0.13.1'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

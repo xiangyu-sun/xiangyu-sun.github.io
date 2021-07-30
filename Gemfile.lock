@@ -57,8 +57,6 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-timeago (0.13.1)
-      mini_i18n (>= 0.8.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     json (2.5.1)
@@ -71,7 +69,10 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    mini_i18n (0.8.0)
+    minima (2.5.1)
+      jekyll (>= 3.5, < 5.0)
+      jekyll-feed (~> 0.9)
+      jekyll-seo-tag (~> 2.1)
     nokogiri (1.11.7-arm64-darwin)
       racc (~> 1.4)
     pathutil (0.16.2)
@@ -91,6 +92,7 @@ GEM
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.7.0)
     verbal_expressions (0.1.5)
+    webrick (1.7.0)
 
 PLATFORMS
   arm64-darwin-20
@@ -103,8 +105,9 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
-  jekyll-timeago (~> 0.13.1)
+  minima
   tzinfo-data
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.2.3
