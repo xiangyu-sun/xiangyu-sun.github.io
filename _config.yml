@@ -21,7 +21,7 @@ baseurl: "/about"
 url: "https://xiangyu-sun.github.io"
 twitter_username: budo_coder
 github_username:  xiangyu-sun
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minimal-mistakes-jekyll
 search: true
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
