@@ -17,7 +17,7 @@ title: 無常
 email: alexander.xiangyu.sun@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Just an engineering blog
-baseurl: "/about" 
+baseurl: "/" 
 url: "https://xiangyu-sun.github.io"
 twitter_username: budo_coder
 github_username:  xiangyu-sun
