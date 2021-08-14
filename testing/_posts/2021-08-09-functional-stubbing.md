@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Functional stubbing"
+title: "Stubbing with function"
 categories: testing
 tags: testing-on-the-chair functions
 ---
