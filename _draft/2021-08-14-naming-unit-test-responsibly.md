@@ -2,7 +2,7 @@
 layout: single
 title: "Naming Unit Tests Responsibly"
 categories: testing
-tags: testing-on-the-chair unit-test
+tags: testing-en-la-cocina unit-test
 ---
 
 Naming, a result of one man's creativity result. But, to serve the function of communication, most of the time, it can take a whole day to just talking about preferences.
