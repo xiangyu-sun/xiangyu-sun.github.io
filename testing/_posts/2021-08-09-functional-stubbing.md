@@ -2,7 +2,7 @@
 layout: single
 title: "Stubbing with function"
 categories: testing
-tags: testing-on-the-chair functions
+tags: testing-en-la-cocina functions
 ---
 
 As we are in 2021, everybody knows what POP is. if you do not. It represents protocol-oriented programming, Apples has shown an interesting technique to mock LocationManger by making it conforms to your protocol. Thus you can create a mockLocationManager and use it as a double in your test.

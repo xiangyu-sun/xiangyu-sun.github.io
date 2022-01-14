@@ -2,7 +2,7 @@
 layout: single
 title: "They run fast, they help us localize problems"
 categories: testing
-tags: testing-on-the-chair concept
+tags: testing-en-la-cocina concept
 ---
 
 “They run fast, they help us localize problems”.  This is how Michael Feathers defines the qualities of a good unit test. This can be hard to accomplish when running your test on a file-based database, depends on networking, is time-dependent, etc.
