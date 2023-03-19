@@ -3,7 +3,7 @@ layout: single
 title: Privacy Policy
 ---
 
-Effective date: April 14, 2019
+Effective date: March 19, 2023
 
 LunarCalendar ("us", "we", or "our") operates the LunarCalendar mobile application (the "Service").
 
